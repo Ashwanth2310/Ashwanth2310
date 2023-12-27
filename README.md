@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+https://github-profile-trophy.vercel.app/?username=Ashwanth2310-ma&theme=darkhub
+
 <!--
 **Ashwanth2310/Ashwanth2310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
