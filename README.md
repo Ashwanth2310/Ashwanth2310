@@ -70,7 +70,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Ashwanth2310/Ashwanth2310/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
