@@ -7,6 +7,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ashwanth2310&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=shades-of-purple&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+
 ###
 
 <div align="left">
@@ -80,3 +81,4 @@
 </div>
 
 ###
+![](https://komarev.com/ghpvc/?username=Ashwanth2310&style=for-the-badge)
