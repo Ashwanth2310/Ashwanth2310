@@ -1,5 +1,6 @@
 <h2 align="center">Hi 👋! My name is Ashwanth and I'm an aspiring Full-Stack Developer</h2>
 
+
 ###
 
 <div align="center">
@@ -54,6 +55,7 @@
 
 ###
 
+
 <br clear="both">
 
 <div align="center">
@@ -71,7 +73,11 @@
 
 ###
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Ashwanth2310/count.svg?"  />
+</div>
 
+###
 
 ###
 
@@ -81,4 +87,3 @@
 </div>
 
 ###
-![](https://komarev.com/ghpvc/?username=Ashwanth2310&style=for-the-badge)
